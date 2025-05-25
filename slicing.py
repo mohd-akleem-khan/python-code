@@ -1,0 +1,10 @@
+names=["Amit","Sumit","Ajay",'vijay',"Mukesh"]
+subnames=names[1:4]
+print(subnames)
+subnames2=names[2:]
+print(subnames2)
+subnames3=names[:3]
+print(subnames3)
+subnames4=names[-2:]
+print(subnames4)
+print(names)

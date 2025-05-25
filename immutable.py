@@ -1,0 +1,5 @@
+t=(2,3,7,9)
+print(t[1])
+print(t[3])
+tu=(5,)
+print(tu[0])

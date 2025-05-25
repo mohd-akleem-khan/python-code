@@ -1,0 +1,10 @@
+names=[]
+print(len(names))
+names.append("Manoj")
+names.append("suresh")
+print(len(names))
+print(names)
+print(names[0])
+print(names[1])
+names[0]="Mukesh"
+print(names[0])
